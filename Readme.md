@@ -4,9 +4,10 @@ Estou criando este arquivo porque também passei algumas dificuldades, mesmo ass
 
 ===============================
 
-• Iníce
+• Indíce
 
 x a x ___________________ Windows
+
 x a x ___________________ MacBook
 
 
